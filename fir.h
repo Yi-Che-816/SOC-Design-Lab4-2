@@ -15,7 +15,7 @@
 #define reg_user_tap10	(*(volatile uint32_t*)0x300000A8)
 #define reg_user_x	(*(volatile uint32_t*)0x300000C0)
 #define reg_user_y	(*(volatile uint32_t*)0x300000C8)
-#define reg_user_start	(*(volatile uint32_t*)0x30000000)
+#define reg_user_config	(*(volatile uint32_t*)0x30000000)
 #define reg_user_len	(*(volatile uint32_t*)0x30000010)
 
 #define N 11
