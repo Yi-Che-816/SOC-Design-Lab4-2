@@ -22,6 +22,7 @@ Reference: [lab-caravel_fir](https://github.com/bol-edu/caravel-soc_fpga-lab/tre
 * [synthesis report](/user_proj_example.vds)
 * [utilization report](/user_proj_example_utilization_synth.rpt)
 * [timing report](/timing_report.txt)
+* [report](/report.pdf)
 ## Execute FIR Code in User Bram
 ### Simulation for FIR 
 ```shell
